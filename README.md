@@ -1,5 +1,5 @@
 # 💫 About Me:
-This is Tanjir Al Mamun, Web & WordPress Enthusiast, Traveller, Tech Blogger, and Photographer. Professionally working as a **Head of Support** at weDevs for the Support team, but passionately, I enjoy writing code in PHP, WordPress, and JavaScript.
+This is Tanjir Al Mamun, Web & WordPress Enthusiast, Traveller, Tech Blogger, and Photographer. Professionally working as a **Senior Support Engineer** at [Rymera Web Co]([url](https://rymera.com.au/)), and previously worked as the **Head of Support** at [weDevs]([url](https://wedevs.com/)), but passionately, I enjoy writing code in PHP, WordPress, and JavaScript.
 
 [![](https://visitcount.itsvg.in/api?id=tanjiralmamun&icon=0&color=1)](https://visitcount.itsvg.in)
 
